@@ -12,10 +12,9 @@ An example use might be: `./last_tweet.sh dshaw_`
 
 You'll end up with a result that looks like this:
 
-    http://twitter.com/following1      Sat May 25 16:01:00 +0000 2013
-		http://twitter.com/following2      Mon Jun 03 21:59:56 +0000 2013
-		http://twitter.com/following3      Mon Jun 03 21:34:44 +0000 2013
-		http://twitter.com/following4      Mon Jun 03 23:57:28 +0000 2013
+		http://twitter.com/following1      Mon Jun 03 21:59:56 +0000 2013
+		http://twitter.com/following2      Mon Jun 03 21:34:44 +0000 2013
+		http://twitter.com/following3      Mon Jun 03 23:57:28 +0000 2013
 
 Which is stored, by default, in `tweet_times.txt`.
 
